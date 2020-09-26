@@ -12,8 +12,8 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/$USER
-git clone git@github.com:andrerferrer/445-night-mode.git
-cd 445-night-mode
+git clone git@github.com:andrerferrer/445-http-and-ajax.git
+cd 445-http-and-ajax
 yarn install
 stt # Open this folder in Sublime Text
 webpack-dev-server # run the server on localhost:8080
